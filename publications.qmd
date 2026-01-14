@@ -1,0 +1,68 @@
+---
+title: "Publications"
+bibliography: references.bib
+---
+
+## Recent Publications
+
+Our research has been published in top-tier venues including [journals/conferences]. 
+
+## Featured Publications
+
+- [@example2024important] - Important recent work
+- [@example2023breakthrough] - Breakthrough findings  
+- [@example2023novel] - Novel approach
+
+## All Publications by Year
+
+### 2024
+
+- [@example2024important]
+
+### 2023
+
+- [@example2023breakthrough]
+- [@example2023novel]
+
+### 2022
+
+- [@example2022foundational]
+
+## Instructions for Adding Publications
+
+### Using BibTeX (Recommended)
+
+Add new entries to `references.bib` in BibTeX format, then cite them on this page using `[@citation-key]`. Quarto will automatically render the full bibliography at the bottom of the page.
+
+Example BibTeX entry:
+```bibtex
+@article{key2024,
+  title = {Your Publication Title},
+  author = {Author1 and Author2},
+  journal = {Journal Name},
+  year = {2024},
+  volume = {1},
+  pages = {1--10},
+  doi = {10.1000/xyz123}
+}
+```
+
+Then cite it in the appropriate year section:
+```markdown
+- [@key2024]
+```
+
+### Using ORCID (Advanced)
+
+To automatically sync publications from ORCID:
+
+1. Obtain your ORCID ID from https://orcid.org
+2. Use the ORCID Public API to fetch publications
+3. Create a script to convert ORCID data to BibTeX format
+4. Add the script to your GitHub Actions workflow
+
+Example approach:
+- Python: Use `requests` to query ORCID API, `pybtex` to format BibTeX
+- R: Use `rorcid` package
+
+See the README for more detailed instructions.

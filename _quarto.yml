@@ -1,0 +1,39 @@
+project:
+  type: website
+
+website:
+  title: "FInDER Lab"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: people.qmd
+        text: People
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/yourusername/FInDER_Lab_Website
+      - icon: twitter
+        href: https://twitter.com/yourlab
+  sidebar:
+    style: "floating"
+    search: true
+    tools:
+      - icon: github
+        href: https://github.com/yourusername/FInDER_Lab_Website
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    code-fold: true
+
+bibliography: references.bib

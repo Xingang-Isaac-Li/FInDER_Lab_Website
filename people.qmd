@@ -1,0 +1,56 @@
+---
+title: "People"
+---
+
+## Principal Investigator
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+### [Your Name], Ph.D.
+*Principal Investigator*
+
+**Email**: your.name@university.edu  
+**Office**: [Building] [Room Number]  
+**Research Interests**: [Research area 1], [Research area 2], [Research area 3]
+
+[Your brief bio here]
+
+:::
+
+:::
+
+## Current Members
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+### Graduate Students
+
+- **Jane Doe** (Ph.D. Student) - Research interests: Machine Learning, Computer Vision
+- **John Smith** (Ph.D. Student) - Research interests: Natural Language Processing, AI
+- **Alice Johnson** (M.S. Student) - Research interests: Data Science, Analytics
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+### Postdoctoral Researchers
+
+- **Bob Wilson** (Postdoc) - Research interests: Deep Learning, Neural Networks
+
+:::
+
+:::
+
+## Alumni
+
+- **Former Student 1** (Ph.D., 2023) - Now at [Company/University]
+- **Former Student 2** (M.S., 2022) - Now at [Company/University]
+- **Former Postdoc** (2021-2023) - Now at [Company/University]
+
+---
+
+*Note: Individual member pages can be added in the `people/` directory. See the README for details.*

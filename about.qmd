@@ -1,0 +1,35 @@
+---
+title: "About"
+---
+
+## About FInDER Lab
+
+The FInDER Lab at [Your University] conducts research at the intersection of [research domains]. Founded in [year], our lab has grown to include [number] researchers working on diverse projects that advance the state of the art in [field].
+
+## Research Mission
+
+Our mission is to [describe your research mission and goals]. We aim to:
+
+- Advance fundamental understanding of [topic]
+- Develop practical solutions for [applications]
+- Train the next generation of researchers
+- Collaborate with industry and academic partners
+
+## Lab Culture
+
+We value:
+- **Rigorous research**: High-quality, reproducible work
+- **Collaboration**: Working together to solve complex problems
+- **Innovation**: Exploring new ideas and approaches
+- **Diversity**: Creating an inclusive research environment
+
+## Facilities
+
+Our lab is equipped with [list any special facilities, equipment, or resources].
+
+## Funding
+
+We gratefully acknowledge support from:
+- [Funding source 1]
+- [Funding source 2]
+- [Funding source 3]

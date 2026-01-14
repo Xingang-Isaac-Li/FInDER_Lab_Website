@@ -1,0 +1,34 @@
+# Quarto
+_site/
+.quarto/
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Python (if used for ORCID integration)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+*.html
+!index.html

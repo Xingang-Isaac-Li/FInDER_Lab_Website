@@ -1,0 +1,58 @@
+---
+title: "Projects"
+---
+
+## Active Projects
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+### Project 1: [Project Name]
+
+**Status**: Active  
+**Team**: [Team members]  
+**Funding**: [Funding source]
+
+Brief description of the project, its goals, and key findings.
+
+**Keywords**: keyword1, keyword2, keyword3
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+### Project 2: [Project Name]
+
+**Status**: Active  
+**Team**: [Team members]  
+**Funding**: [Funding source]
+
+Brief description of the project, its goals, and key findings.
+
+**Keywords**: keyword1, keyword2, keyword3
+
+:::
+
+:::
+
+## Completed Projects
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+### Project 3: [Project Name]
+
+**Status**: Completed  
+**Completion Date**: [Year]
+
+Brief description of completed project and outcomes.
+
+:::
+
+:::
+
+---
+
+*Note: Individual project pages can be added in the `projects/` directory. See the README for details.*

@@ -1,0 +1,40 @@
+---
+title: "Contact"
+---
+
+## Get in Touch
+
+We welcome inquiries about our research, collaboration opportunities, and potential students/postdocs.
+
+### Lab Location
+
+**Address**:  
+[Your University]  
+[Department Name]  
+[Building Name, Room Number]  
+[Street Address]  
+[City, State ZIP Code]
+
+### Contact Information
+
+**Principal Investigator**:  
+[Your Name]  
+Email: your.name@university.edu  
+Office: [Building] [Room Number]  
+Office Hours: [Day] [Time]
+
+**Lab Email**: lab@university.edu
+
+**Phone**: (XXX) XXX-XXXX
+
+### Join Our Lab
+
+We're always looking for motivated students and researchers! If you're interested in:
+
+- **Graduate studies**: Please apply through the [University] [Department] graduate program and mention your interest in our lab in your application.
+- **Postdoctoral positions**: Please send your CV, research statement, and contact information for references to [email].
+- **Undergraduate research**: Please contact us via email with your CV and a brief statement of your research interests.
+
+### Directions
+
+[Add directions to your lab if applicable, or a map embed]

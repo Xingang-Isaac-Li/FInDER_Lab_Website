@@ -1,0 +1,33 @@
+---
+title: "Welcome to FInDER Lab"
+---
+
+## About Our Research
+
+Welcome to the FInDER (Fill in your lab name/description) Lab at [Your University]. We are a research group focused on [brief description of research areas].
+
+Our work spans multiple domains including:
+
+- **Research Area 1**: Brief description
+- **Research Area 2**: Brief description  
+- **Research Area 3**: Brief description
+
+## Recent News
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### Latest Publications
+We're excited to share our latest research findings. Check out our [publications](publications.qmd) page for the complete list.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Join Our Lab
+We're always looking for motivated students and researchers. Learn more on our [people](people.qmd) page.
+:::
+
+:::
+
+## Research Highlights
+
+Our lab investigates cutting-edge problems in [your field]. Explore our [projects](projects.qmd) to learn more about our ongoing work.
