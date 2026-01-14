@@ -3,7 +3,6 @@ project:
 
 website:
   title: "FInDER Lab"
-  base-url: /FInDER_Lab_Website
   navbar:
     left:
       - href: index.qmd
